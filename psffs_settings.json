@@ -1,0 +1,8 @@
+{
+    "static_file_serve_url": "/fs",
+    "target_dirs_and_urls": {
+        "c:/psffs/public": "puclic",
+        "c:/psffs/public/shortcut": "sc",
+        "c:/psffs/other": "other"
+    }
+}
